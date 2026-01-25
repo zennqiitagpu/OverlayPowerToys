@@ -1,6 +1,6 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/57dd6299-ded7-4c71-95a9-a7f4c201aaaf" />
 
-# OverlayPowerToys
+# Overlay PowerToys
 
 A floating toolkit for Android that stays on top of other apps. Take notes, sketch ideas, do quick calculations, or browse the web—all without leaving what you're doing.
 
