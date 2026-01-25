@@ -1,6 +1,10 @@
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/57dd6299-ded7-4c71-95a9-a7f4c201aaaf" />
+
 # OverlayPowerToys
 
 A floating toolkit for Android that stays on top of other apps. Take notes, sketch ideas, do quick calculations, or browse the web—all without leaving what you're doing.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/zennqiitagp)
 
 ## What is it?
 
@@ -24,21 +28,31 @@ Minimize to a draggable widget anytime. Built with Jetpack Compose for Android 1
 
 The text editor lets you write quick notes while doing other things. Copy and paste works as expected, and you can save multiple notes to come back to later. When you need a note outside the app, export it to internal storage.
 
+<img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/16d61fed-9012-4cc4-8606-4e9928297149" />
+
 ### Sketch and annotate
 
 The drawing canvas gives you a pen, color picker, and eraser. Adjust the brush size, draw what you need, and save your work. You can copy to clipboard and export drawings as PNG images—either with a transparent background, a solid background, or (on Android 11+) with whatever's behind the overlay captured into the image.
+
+<img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/6d06413c-af38-426a-8707-2bad28c3fb5a" />
 
 ### Quick calculations
 
 A basic calculator is built in for when you need to crunch numbers without opening another app. It handles the standard operations (+, −, ×, ÷, %), and keeps a history of your calculations so you can tap to recall previous results.
 
+<img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/8beedcde-196b-488e-a445-712c2c7bbba3" />
+
 ### Browse the web in-overlay
 
 A simple browser with tabs lets you look things up without leaving your current app. It supports multiple tabs, keeps a history, and can download files. It's not meant to replace your main browser, but it's useful for quick searches or reference pages.
 
+<img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/efa39527-9a4d-4858-be7c-98fa56c75793" />
+
 ### Stays out of the way
 
 When you don't need the full panel, minimize it to a small floating button. Drag it anywhere on screen. Tap it to expand again, or close it when you're done. The overlay doesn't steal focus from what you're working on.
+
+<img width="324" height="720" alt="image" src="https://github.com/user-attachments/assets/e239f32c-7718-4cdb-91b4-1cea99bf1cd1" />
 
 ---
 
