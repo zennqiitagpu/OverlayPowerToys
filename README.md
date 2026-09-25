@@ -4,7 +4,7 @@
 
 A floating toolkit for Android that stays on top of other apps. Take notes, sketch ideas, do quick calculations, or browse the web without leaving what you're doing.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zennqiitagpu)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zennqiitagp)
 
 ## What is it?
 
